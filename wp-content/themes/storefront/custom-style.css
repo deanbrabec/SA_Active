@@ -1,0 +1,61 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 14.9.2016, 10:15:34
+    Author     : deanbrabec
+*/
+
+/* Nav */
+
+.storefront-primary-navigation, .site-footer{
+    
+    background:#2d3588;
+    
+}
+
+.nav-menu li:hover{
+    
+    background:#CE086A;
+    
+}
+
+
+/* Homepage */
+
+
+.storefront-sorting{
+    
+    display:none;
+    
+}
+
+/* Page */
+.woocommerce-breadcrumb{
+    
+    display: none;
+    
+}
+
+
+.entry-header{
+    
+    position: relative;
+    
+}
+
+.banner-text{
+      
+    z-index: 1000;
+    position: absolute;
+    top:190px;
+    left:0px;
+    font-size: 22px;
+    padding: 30px;
+    background: #D11A6F;
+    color: white;
+    font-weight: normal;
+    
+}
